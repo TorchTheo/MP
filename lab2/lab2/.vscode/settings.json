@@ -1,0 +1,15 @@
+{
+    "java.jdt.ls.java.home": "C:\\Env\\Java",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-1.8",
+            "path": "C:\\Env\\Java8",
+            "default": true
+        },
+        {
+            "name": "JavaSE-11",
+            "path": "C:\\Env\\Java",
+        },
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
